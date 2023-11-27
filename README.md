@@ -1,8 +1,20 @@
-<h1 align="left">Hey :)</h1>
+<br clear="both">
+
+<div align="center">
+  <img height="200" src="https://usagif.com/wp-content/uploads/gify/22-rick-astley-cats-sing-usagif.gif"  />
+</div>
 
 ###
 
-<img align="right" height="200" src="https://media.tenor.com/4gPD1ccxrVgAAAAC/rick-ashley-dance.gif"  />
+<div align="center">
+  <h3><i>"A full commit's what I'm thinking of"</i></h3>
+</div>
+
+###
+
+<br clear="both">
+
+<h1 align="left">Hey :)</h1>
 
 ###
 
