@@ -1,8 +1,12 @@
-<h1 align="left">Hey :)</h1>
+<br clear="both">
+
+<div align="center">
+  <img align="right" height="250" src="https://media.giphy.com/media/Ju7l5y9osyymQ/giphy.gif"  />
+</div>  
 
 ###
 
-<img align="right" height="250" src="https://media.giphy.com/media/Ju7l5y9osyymQ/giphy.gif"  />
+<h1 align="left">Hey :)</h1>
 
 ###
 
@@ -67,7 +71,7 @@
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ManuChristofalo&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=prussian&locale=en&hide_border=true&order=1&custom_title=General%20Stats%20%F0%9F%AB%A1" height="175" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ManuChristofalo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=prussian&hide_border=true&order=2&custom_title=Most%20Used%20Languages" height="175" alt="languages graph"  />
-  <img src="https://github-contributor-stats.vercel.app/api?username=ManuChristofalo&limit=5&theme=prussian&combine_all_yearly_contributions=true&custom_title=Some%20of%20my%20Repos" height="175" alt="repos graph"  />
+  <img src="https://github-contributor-stats.vercel.app/api?username=ManuChristofalo&limit=5&theme=prussian&combine_all_yearly_contributions=true&custom_title=Some%20of%20my%20Repos&hide_border=true" height="175" alt="repos graph"  />
 </div>
 
 ###
