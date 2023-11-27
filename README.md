@@ -1,12 +1,8 @@
-<br clear="both">
-
-<div align="center">
-  <img align="right" height="250" src="https://media.giphy.com/media/Ju7l5y9osyymQ/giphy.gif"  />
-</div>  
+<h1 align="left">Hey :)</h1>
 
 ###
 
-<h1 align="left">Hey :)</h1>
+<img align="right" height="200" src="https://media.tenor.com/4gPD1ccxrVgAAAAC/rick-ashley-dance.gif"  />
 
 ###
 
