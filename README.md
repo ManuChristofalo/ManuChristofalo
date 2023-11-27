@@ -18,23 +18,22 @@
 
 ###
 
-<h3 align="left">• A short description of who I am 🤠</h3>
+<h3 align="left">• A short description of who I am / <i>Quem eu sou</i> 🤠</h3>
 
 ###
 
 <p align="left">My name is Manu and I'm a Computer Science undergrad at UNESP - Bauru (🇧🇷).<br>I like music, sports, and reading.<br>My current career goal is to work at a Big Tech company that I appreciate (hello, Spotify 👋), and my life objective is to live by the beach.<br><br>Feel free to take a look at my repos!</p>
 
+<br clear="both">
+
+<p align="left"><i>Meu nome é Manu e eu sou estudante de Ciência da Computação na Unesp - Bauru.<br>Eu gosto de música, esportes e ler.<br>Minha meta de carreira atual é trabalhar em uma Big Tech que eu goste (oi, Spotify 👋), e meu objetivo de vida é morar na praia.<br><br>Fique à vontade para olhar os meus repositórios! </i></p>
+
+
 ###
 
 <br clear="both">
 
-<h4 align="left"></h4>
-
-###
-
-<br clear="both">
-
-<h3 align="left">• What I know ☝️🤓</h3>
+<h3 align="left">• What I know / <i>O que eu sei</i> ☝️🤓</h3>
 
 ###
 
@@ -72,7 +71,7 @@
 
 ###
 
-<h3 align="left">• My GitHub stats</h3>
+<h3 align="left">• My GitHub stats / <i>Minhas estatísticas no GitHub</i></h3>
 
 ###
 
