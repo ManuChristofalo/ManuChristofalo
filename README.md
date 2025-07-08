@@ -22,11 +22,11 @@
 
 ###
 
-<p align="left">My name is Manu and I'm a Computer Science undergrad at UNESP - Bauru (🇧🇷).<br>I like music, sports, and reading.<br>My current career goal is to work at a Big Tech company that I appreciate (hello, Spotify 👋), and my life objective is to live by the beach.<br><br>Feel free to take a look at my repos!</p>
+<p align="left">My name is Manu and I'm a Computer Science undergrad at UNESP - Bauru (🇧🇷).<br>I like music, sports, and reading.<br>My current career goal is to pursue a master's degree (or a direct PhD) so I can become a professor, and my life objective is to live by the beach.<br><br>Feel free to take a look at my repos!</p>
 
 <br clear="both">
 
-<p align="left"><i>Meu nome é Manu e eu sou estudante de Ciência da Computação na Unesp - Bauru.<br>Eu gosto de música, esportes e ler.<br>Minha meta de carreira atual é trabalhar em uma Big Tech que eu goste (oi, Spotify 👋), e meu objetivo de vida é morar na praia.<br><br>Fique à vontade para olhar os meus repositórios! </i></p>
+<p align="left"><i>Meu nome é Manu e eu sou estudante de Ciência da Computação na Unesp - Bauru.<br>Eu gosto de música, esportes e ler.<br>Minha meta de carreira atual é cursar um mestrado (ou um doutorado direto) para que eu possa virar professora, e meu objetivo de vida é morar na praia.<br><br>Fique à vontade para olhar os meus repositórios! </i></p>
 
 
 ###
